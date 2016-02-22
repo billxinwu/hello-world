@@ -8,3 +8,7 @@ When using the normal way of creating new files through the web interface, you c
 
 E.g. If I would like to create the file filename.md in a series of subfolders, I can do this (taken from the GitHub Blog): 
 
+Added one more line from local
+Is it going to commit to repo?
+
+Will test it and see!
