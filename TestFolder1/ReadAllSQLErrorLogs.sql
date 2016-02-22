@@ -13,8 +13,6 @@ end
 
 Go
 
-sp_who2 active
-
 
 
 
