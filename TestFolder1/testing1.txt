@@ -1,0 +1,10 @@
+This is the very first folder I created using the web interface. So nice!
+
+http://webapps.stackexchange.com/questions/36411/create-a-folder-in-github-via-the-web-interface
+
+It is possible to create a new folder from the web interface, but it would require you to have at least one file within the folder when creating it.
+
+When using the normal way of creating new files through the web interface, you can type in the folder into the file name to create the file within that new directory.
+
+E.g. If I would like to create the file filename.md in a series of subfolders, I can do this (taken from the GitHub Blog): 
+
